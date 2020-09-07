@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Skip",
+    "version": "1.0",
+    "description": "Communicates with a Python Server to let you skip Videos without tabbing out of you game",
+
+    "icons": {
+        "48": "icons/skip-48.png"
+    },
+    "content_scripts": [{
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["/scripts/skip.js"]
+    }]
+}
