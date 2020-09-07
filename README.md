@@ -12,4 +12,4 @@ Then in Firefox type `about:debugging` in your search bar, go to `This Firefox` 
 
 After that just simply execute `keylogSender.py` and enjoy
 
-> Tip: The Server prints the message it recieved into the console. Make sure it got the message `browser` at leas once before trying to skip
+> Tip: The Server prints the messages it recieves into the console. Make sure it got the message `browser` at leas once before trying to skip
