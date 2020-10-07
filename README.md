@@ -9,6 +9,7 @@ May not work with multiple YouTube instances
 First run `echoServer.py`
 
 Then in Firefox type `about:debugging` in your search bar, go to `This Firefox` then click `Add temporary Add-on` and select any file within the Folder `Extension`
+> You can now install a Firefox signed Version [here](https://github.com/drblaui/FirefoxSkip/releases/tag/v1.0) 
 
 After that just simply execute `keylogSender.py` and enjoy
 
