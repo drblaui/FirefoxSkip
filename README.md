@@ -1,6 +1,6 @@
 
 # FireFoxSkip
-An Extension and a Server that let's you solve the first world problem of not being able to skip a YouTube Video, when you are playing a game
+An Extension and a Server that lets you solve the first world problem of not being able to skip a YouTube Video, when you are playing a game
 
 ## Known Issues
 May not work with multiple YouTube instances
