@@ -1,4 +1,4 @@
-
+# This was made obsolete by [this](https://support.mozilla.org/de/kb/audio-oder-video-mit-headset-oder-tastatur-steuern?as=u&utm_source=inproduct) Firefox update
 # FireFoxSkip
 An Extension and a Server that lets you solve the first world problem of not being able to skip a YouTube Video, when you are playing a game
 
