@@ -15,4 +15,4 @@ After that just simply execute `keylogSender.py` and enjoy
 
 > Tip: The Server prints the messages it recieves into the console. Make sure it got the message `browser` at leas once before trying to skip
 
-This was made obsolete by [this](https://support.mozilla.org/de/kb/audio-oder-video-mit-headset-oder-tastatur-steuern?as=u&utm_source=inproduct) Firefox update
+# This was made obsolete by [this](https://support.mozilla.org/de/kb/audio-oder-video-mit-headset-oder-tastatur-steuern?as=u&utm_source=inproduct) Firefox update
